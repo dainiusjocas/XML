@@ -1,0 +1,5 @@
+File.open [file_name] [writing_permission={"r+", "w+"}]- open existing file
+File.new [file_name] [writing_permission={"r+", "w+"}] - create a new file
+my_file.rewind - bring the cursor to the beginning of file
+[my_file].puts [your_text]
+[my_file].readline
