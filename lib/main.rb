@@ -11,6 +11,7 @@ require "fibonacci.rb"
 
 puts "Beginning of the program"
 puts Fibonacci.new.get_fibonacci_sequence_member 10
+puts "moo"
 puts "End of the Program"
 
 # just example how to create a file and write something to it
